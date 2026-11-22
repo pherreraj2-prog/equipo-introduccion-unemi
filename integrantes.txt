@@ -2,3 +2,6 @@ Integrantes del equipo:
 - Patrick
 - Criss
 - Pucha
+Materia:
+
+Introducción a la ingeniería de software
