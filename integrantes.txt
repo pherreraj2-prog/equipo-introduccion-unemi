@@ -1,8 +1,10 @@
 Integrantes del equipo:
-- Patrick
-- Criss
-- Alexis David Pucha Tene
-Materia:
+- Patrick Jordano Herrera Jiménez (A cargo de las diapositivas 7,8 y 9)
+- Christian Fernando Vega Olivares (A cargo de las diapositivas 4,5 y 6)
+- Alexis David Pucha Tene (A cargo de la Introducción y las diapositivas 2 y 3)
 
+Materia:
 Introducción a la ingeniería de software
-Tema: Control de versiones con Git y GitHub
+
+Tema:
+Control de versiones con Git y GitHub
